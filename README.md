@@ -1,5 +1,7 @@
-# 💫 Sobre mim:
-Estudante de Análise de Desenvolvimento de Sistema com interesse na área de segurança da informação.
+# ☕ Sobre mim
+Apaixonada por café e código, estou sempre buscando aprender mais e me aperfeiçoar. Como estudante de Análise e Desenvolvimento de Sistemas, tenho grande interesse na área de Segurança da Informação, mas também me divirto explorando o lado criativo da programação, personalizando interfaces com HTML e CSS.
+
+Acredito que o conhecimento é infinito e estou sempre aberta a aprender algo novo. Programar para mim é mais do que resolver problemas; é criar algo único e funcional.
 
 
 # 💻 Linguagens estudadas na faculdade:
