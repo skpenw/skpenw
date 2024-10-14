@@ -1,10 +1,10 @@
-# ☕ Sobre mim
+# ☕ About me:
 Apaixonada por café e código, estou sempre buscando aprender mais e me aperfeiçoar. Grande interesse na área de Segurança da Informação, mas também me divirto explorando o lado criativo da programação, personalizando interfaces com HTML e CSS.
 
 Acredito que o conhecimento é infinito e estou sempre aberta a aprender algo novo. Programar para mim é mais do que resolver problemas; é criar algo único e funcional.
 
 
-# 💻 Linguagens:
+# 💻 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skpenw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
