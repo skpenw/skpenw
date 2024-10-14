@@ -1,11 +1,11 @@
 # ☕ Sobre mim
-Apaixonada por café e código, estou sempre buscando aprender mais e me aperfeiçoar. Como estudante de Análise e Desenvolvimento de Sistemas, tenho grande interesse na área de Segurança da Informação, mas também me divirto explorando o lado criativo da programação, personalizando interfaces com HTML e CSS.
+Apaixonada por café e código, estou sempre buscando aprender mais e me aperfeiçoar. Grande interesse na área de Segurança da Informação, mas também me divirto explorando o lado criativo da programação, personalizando interfaces com HTML e CSS.
 
 Acredito que o conhecimento é infinito e estou sempre aberta a aprender algo novo. Programar para mim é mais do que resolver problemas; é criar algo único e funcional.
 
 
-# 💻 Linguagens estudadas na faculdade:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+# 💻 Linguagens:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skpenw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skpenw&theme=dark&hide_border=false)<br/>
