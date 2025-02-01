@@ -4,9 +4,13 @@
 🔍 Current Learning [Basic] - Cybersecurity & Digital Forensics
 
 Cryptography
+
 Protocols such as TCP/IP, HTTP, HTTPS, and others.
+
 Digital forensics techniques, incident investigation, and LGPD compliance.
+
 Malware, social engineering, phishing, pentesting, DoS/DDoS, vulnerabilities, proxy.
+
 Networking and computer organization.
 
 🌐 Front-End & Back-End
