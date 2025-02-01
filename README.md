@@ -1,14 +1,23 @@
-# ☕ About me:
-Apaixonada por café e código, estou sempre buscando aprender mais e me aperfeiçoar. Grande interesse na área de Segurança da Informação, mas também me divirto explorando o lado criativo da programação, personalizando interfaces com HTML e CSS.
+# About me:
+☕ Hello! My name is Isabella, and I have a degree in Systems Analysis and Development. I am interested in Cybersecurity, Digital Forensics, and Web Development.
 
-Acredito que o conhecimento é infinito e estou sempre aberta a aprender algo novo. Programar para mim é mais do que resolver problemas; é criar algo único e funcional.
-_____________________________________________________________________________
-Passionate about coffee and code, I'm always looking to learn more and improve myself. Great interest in the area of ​​Information Security, but I also have fun exploring the creative side of programming, customizing interfaces with HTML and CSS.
+🔍 Current Learning [Basic] - Cybersecurity & Digital Forensics
 
-I believe that knowledge is infinite and I am always open to learning something new. Programming for me is more than solving problems; is to create something unique and functional.
+Cryptography
+Protocols such as TCP/IP, HTTP, HTTPS, and others
+Digital forensics techniques, incident investigation, and LGPD compliance
+Malware, social engineering, phishing, pentesting, DoS/DDoS, vulnerabilities, proxy
+Networking and computer organization
 
-# 💻 Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+🌐 Front-End & Back-End
+
+Exploring front-end and back-end development in my free time
+HTML, CSS, JavaScript, and PHP
+
+
+# 💻 Basic Languages:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skpenw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skpenw&theme=dark&hide_border=false)<br/>
