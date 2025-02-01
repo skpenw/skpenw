@@ -1,6 +1,6 @@
-# About me:
+# ☕ About me:
 
-☕ Hello! My name is Isabella. I have a degree in Systems Analysis and Development. I am interested in Cybersecurity, Digital Forensics, and Web Development.
+Hello! My name is Isabella. I have a degree in Systems Analysis and Development. I am interested in Cybersecurity, Digital Forensics, and Web Development.
 
 🔍 Current Learning [Basic] - Cybersecurity & Digital Forensics
 
