@@ -1,4 +1,6 @@
 # About me:
+<img align="right" src="[https://via.placeholder.com/150](https://images.pexels.com/photos/5475752/pexels-photo-5475752.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)" width="150">
+
 ☕ Hello! My name is Isabella. I have a degree in Systems Analysis and Development. I am interested in Cybersecurity, Digital Forensics, and Web Development.
 
 🔍 Current Learning [Basic] - Cybersecurity & Digital Forensics
