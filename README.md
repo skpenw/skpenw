@@ -5,7 +5,7 @@
 
 Cryptography, Protocols such as TCP/IP, HTTP, HTTPS, and others. 
 Digital forensics techniques, incident investigation, and LGPD compliance.
-Malware, social engineering, phishing, pentesting, DoS/DDoS, vulnerabilities, proxy.
+Malware, social engineering, phishing, pentesting, DoS/DDoS, vulnerabilities, proxy, and others.
 Networking and computer organization.
 
 🌐 Front-End & Back-End
