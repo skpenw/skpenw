@@ -1,16 +1,4 @@
-# ☕ About me:
-
-Hello! My name is Isabella. I have a degree in Systems Analysis and Development. I am interested in Cybersecurity, Digital Forensics, Design and Web Development.
-
-🔍 Current Learning [Basic] - Cybersecurity & Digital Forensics
-
-Cryptography, Protocols such as TCP/IP, HTTP, HTTPS, and others. 
-Digital forensics techniques, incident investigation, and LGPD compliance.
-Malware, social engineering, phishing, pentesting, DoS/DDoS, vulnerabilities, and others.
-Networking and computer organization.
-
-🌐 Front-End & Back-End
-Exploring front-end and back-end development in my free time.
+Systems Analysis and Development | Cyber ​​Security | Pentesting | Digital Forensics
 
 
 # 📊 GitHub Stats:
@@ -21,6 +9,3 @@ Exploring front-end and back-end development in my free time.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=skpenw&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=skpenw&icon=2&color=2)](https://visitcount.itsvg.in)
