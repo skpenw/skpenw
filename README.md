@@ -1,4 +1,5 @@
-Systems Analysis and Development | Cyber ​​Security | Pentesting | Digital Forensics
+Bem vindo(a) me chamo Isabella.
+🌱 Analista de Sistemas | Segurança da Informação | Desenvolvimento Full Stack em construção
 
 
 # 📊 GitHub Stats:
